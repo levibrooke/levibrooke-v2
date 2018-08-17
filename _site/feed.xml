@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Levi Porter</title>
+    <description></description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 11 May 2018 15:23:47 -1000</pubDate>
+    <lastBuildDate>Fri, 11 May 2018 15:23:47 -1000</lastBuildDate>
+    <generator>Jekyll v3.8.1</generator>
+    
+      <item>
+        <title>Launching my Website with Siteleaf</title>
+        <description>&lt;p&gt;For a few months I had been thinking about redesigning my website. I had some ideas for the new site but also a lot of unanswered questions.&lt;/p&gt;
+
+&lt;p&gt;My previous website was completely static and lacked a blog - something I wanted to have going forward. But after some previous experience with Wordpress, I knew I wanted to go in a different direction.&lt;/p&gt;
+
+&lt;p&gt;I had three main goals for the project:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;I wanted something clean and simple that would focus on content.&lt;/li&gt;
+  &lt;li&gt;I didn’t want to use a bloated CMS like Wordpress.&lt;/li&gt;
+  &lt;li&gt;I wanted to learn something new in the process.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Doing some reading online led me to Jekyll, a static site generator. Jekyll allows you to serve static files to build your website and it includes blog functionality with no database needed. Perhaps my favorite thing about building with Jekyll is templating with Liquid. As someone who never really enjoyed working in PHP to build Wordpress themes, this was a welcome change.&lt;/p&gt;
+
+&lt;p&gt;After I started building the new website I stumbled upon Siteleaf, a CMS for static sites. Siteleaf is a great tool because of it’s simplicity and ease of use to manage your content. As a bonus, it has an awesome free plan that allows you to host your site through a public GitHub repository.&lt;/p&gt;
+
+&lt;p&gt;While it took some time playing around and getting things working, I’m pretty happy with the results. I don’t think my website is a finished product yet but it has been a fun experience learning some new tools.&lt;/p&gt;
+
+&lt;p&gt;If you’re interested in building with Jekyll and Siteleaf here are some links to check out:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developmentseed.org/blog/2011/09/09/jekyll-github-pages/&quot;&gt;Introduction to Jekyll and GitHub Pages&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;jekyllrb.com&quot;&gt;Jekyll Documentation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://learn.siteleaf.com/&quot;&gt;Siteleaf Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Fri, 26 Aug 2016 17:34:00 -1000</pubDate>
+        <link>http://localhost:4000/writing/launching-my-website-with-siteleaf/</link>
+        <guid isPermaLink="true">http://localhost:4000/writing/launching-my-website-with-siteleaf/</guid>
+        
+        <category>jekyll</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
